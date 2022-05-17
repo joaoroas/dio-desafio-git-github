@@ -1,1 +1,1 @@
-Exemplo para fazer atualizção no repositório remoto atras do git.
+Exemplo para fazer atualizção no repositório remoto através do git.
